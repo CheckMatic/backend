@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectsByJackHe/multiplayer-chess-game-backend.git"
+    "url": "git+https://github.com/CheckMatic/draft-deploy.git"
   },
   "dependencies": {
     "express": "4.17.1",
@@ -19,10 +19,10 @@
   "devDependencies": {
     "nodemon": "2.0.4"
   },
-  "author": "Jack He",
+  "author": "CheckMatic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ProjectsByJackHe/multiplayer-chess-game-backend/issues"
+    "url": "https://github.com/CheckMatic/draft-deploy.git/issues"
   },
-  "homepage": "https://github.com/ProjectsByJackHe/multiplayer-chess-game-backend#readme"
+  "homepage": "https://checkmatic.github.io/draft-deploy"
 }
