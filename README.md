@@ -1,3 +1,3 @@
-### This is the backend for my multiplayer chess game.
+### Backend Server 
 
-Link to the frontend: [Frontend](https://github.com/CheckMatic/draft-deploy.git)
+The purpose of this server is to host the game and manage the moves for both the clients. 
